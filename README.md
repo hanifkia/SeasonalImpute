@@ -2,6 +2,8 @@
 
 A Python package for imputing missing values in time series data using a seasonal weighted average approach.
 
+![Alt text](./imputation.png)
+
 ## Installation
 
 ```bash
